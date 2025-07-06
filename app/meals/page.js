@@ -10,8 +10,6 @@ async function Meals() {
   return <MealsGrid meals={meals} />;
 }
 export default async function MealsPage() {
-  const meals = await getMeals();
-
   return (
     <>
       <header className={classes.header}>
