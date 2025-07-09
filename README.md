@@ -1,5 +1,6 @@
 # Next.js 14 & App Router 핵심 기능 스터디
 
+Udemy 강의 플랫폼에서 Maximilian Schwarzmüller 강사의 Next.js 15 강의를 통해
 Next.js의 앱 라우터(App Router) 주요 기능을 학습하며 만든 음식 레시피 공유 프로젝트입니다.
 
 ## 🚀 핵심 기술 및 학습 내용
